@@ -42,7 +42,7 @@ The notebook loads packages used for:
 ### 4) Full decision tree (unpruned)
 - Trains a full tree using `rpart(..., cp = 0)`
 - Predicts test labels
-- Creates confusion matrix and metrics (Sensitivity, Specificity, Accuracy) :contentReference[oaicite:7]{index=7}
+- Creates confusion matrix and metrics (Sensitivity, Specificity, Accuracy) 
 
 ### 5) Pruned decision tree (cross validation)
 - Uses `caret::train` with 10-fold CV to find best `cp`
