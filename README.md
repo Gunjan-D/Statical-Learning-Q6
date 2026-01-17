@@ -2,7 +2,7 @@
 
 ## What this project does
 This project builds and tests multiple classification models on a dataset called **GreatUnknown.csv**.  
-It cleans the data, splits it into train/test sets, trains models, evaluates them using a confusion matrix, and exports predictions to an Excel file. :contentReference[oaicite:0]{index=0}
+It cleans the data, splits it into train/test sets, trains models, evaluates them using a confusion matrix, and exports predictions to an Excel file. 
 
 ---
 
