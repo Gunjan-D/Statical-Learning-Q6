@@ -33,11 +33,11 @@ The notebook loads packages used for:
 - Read CSV
 - Remove rows with missing values using `na.omit`
 - Convert `y` to a factor
-- Print how many rows remain after cleaning :contentReference[oaicite:5]{index=5}
+- Print how many rows remain after cleaning
 
 ### 3) Train/test split
 - Uses `createDataPartition` with 75% train and 25% test
-- Uses `set.seed` to keep results repeatable :contentReference[oaicite:6]{index=6}
+- Uses `set.seed` to keep results repeatable 
 
 ### 4) Full decision tree (unpruned)
 - Trains a full tree using `rpart(..., cp = 0)`
