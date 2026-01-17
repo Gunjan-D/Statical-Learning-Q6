@@ -27,7 +27,7 @@ The notebook loads packages used for:
 - splitting (`caret`, `caTools`)
 - decision trees (`rpart`, `rattle`)
 - logistic regression (`MASS`)
-- exporting results (`writexl`) :contentReference[oaicite:4]{index=4}
+- exporting results (`writexl`)
 
 ### 2) Read and clean data
 - Read CSV
