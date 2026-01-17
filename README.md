@@ -1,4 +1,4 @@
-# GreatUnknown Classification Models (Decision Tree, Pruned Tree, Logistic Regression, Majority Vote)
+#  Classification Models (Decision Tree, Pruned Tree, Logistic Regression, Majority Vote)
 
 ## What this project does
 This project builds and tests multiple classification models on a dataset called **GreatUnknown.csv**.  
