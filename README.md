@@ -77,7 +77,7 @@ The notebook loads packages used for:
 
 ### C) Logistic Regression
 - Fits a linear decision boundary in log-odds space.
-- Converts probabilities to classes using 0.5 threshold. :contentReference[oaicite:13]{index=13}
+- Converts probabilities to classes using 0.5 threshold. 
 
 ### D) Majority Vote
 - For each row: take the label predicted by at least 2 out of 3 models.
