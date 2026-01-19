@@ -70,8 +70,7 @@ The notebook loads packages used for:
 
 ### A) Decision Tree (rpart)
 - Splits data based on feature rules to reduce impurity.
-- Full tree uses `cp = 0` to allow maximum growth (can overfit). :contentReference[oaicite:11]{index=11}
-
+- Full tree uses `cp = 0` to allow maximum growth (can overfit). 
 ### B) Pruned Tree (cross validated)
 - Uses k-fold cross validation to choose a `cp` that balances fit vs generalization.
 - This usually reduces overfitting compared to the full tree. :contentReference[oaicite:12]{index=12}
