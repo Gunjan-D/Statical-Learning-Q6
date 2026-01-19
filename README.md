@@ -81,8 +81,7 @@ The notebook loads packages used for:
 
 ### D) Majority Vote
 - For each row: take the label predicted by at least 2 out of 3 models.
-- Acts like a simple ensemble to improve stability. :contentReference[oaicite:14]{index=14}
-
+- Acts like a simple ensemble to improve stability. 
 ---
 
 ## Metrics used (from confusion matrix)
